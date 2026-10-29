@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 # 👩🏻‍💻 Nicolas Silva
 
 *Desenvolvedor Fullstack*
